@@ -1,0 +1,28 @@
+.index_btn{
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: brown;
+}
+.index_btn a{
+    color: #FFFFFF;
+    text-decoration :none;
+}
+.index_btn:hover{
+    background-color: #FF0000;
+}
+.form-control{
+    margin: 5px;
+}
+.btn-default{
+    width: 215px;
+    height: 30px;
+    float: left;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: blue;
+}
